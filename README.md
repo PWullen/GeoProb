@@ -1,4 +1,4 @@
-# EE350hw6
+# Geometric Prob
 A commandline function to generate multiple samples of a geometric probability distribution with pre-defined probabilities given in the prompt 
 
 % A basketball team with 15 players is practicing.  During practice,
