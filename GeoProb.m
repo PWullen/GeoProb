@@ -11,7 +11,6 @@
 % other player’s shots are independent.  Once each player shoots once,
 % let X be the total number of successful shots (including Prob’s).
 
-
 function GeoProb(s) %s = samples of experiment
     n = 15; %basketball team players
     ProbP = 0.5; %star player always shooting first 
