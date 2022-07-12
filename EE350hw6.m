@@ -12,7 +12,7 @@
 % let X be the total number of successful shots (including Prob’s).
 
 
-function EE350hw6(s) %s = samples of experiment
+function GeoProb(s) %s = samples of experiment
     n = 15; %basketball team players
     ProbP = 0.5; %star player always shooting first 
     arrayProbP = ProbP*randi(2,1,s) > 0.5; %logical array based on ProbP
